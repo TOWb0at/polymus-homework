@@ -1,2 +1,2 @@
-# polymus-homework
-DO IT
+
+Do it - Markov chain
